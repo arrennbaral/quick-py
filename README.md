@@ -22,7 +22,7 @@ Output section: Displays execution results and errors
 Run / Clear buttons: Quick actions for execution control
 🛠️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/quick-py.git
+git clone https://github.com/arrennbaral/quick-py.git
 cd quick-py
 2. Run the app
 python quick_py.py

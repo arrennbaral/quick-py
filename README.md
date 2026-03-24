@@ -26,6 +26,8 @@ git clone https://github.com/arrennbaral/quick-py.git
 cd quick-py
 2. Run the app
 python quick_py.py
+
+
 📦 Requirements
 
 No external dependencies required.
